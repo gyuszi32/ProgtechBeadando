@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Projekt>
+    <Adatok>
+        <Felhasznalok>
+            <Felhasznalo id="gyuszi3211">
+                <Jelszo>gyuszika</Jelszo>
+                <Jelszo2>gyuszika</Jelszo2>
+                <Kar/>
+                <Szak/>
+                <Evfolyam/>
+            </Felhasznalo>
+        
+            <Felhasznalo id="Chelsea">
+                <Jelszo>gyuszika</Jelszo>
+                <Jelszo2>gyuszika</Jelszo2>
+                <Kar>IK</Kar>
+                <Szak>PTI</Szak>
+                <Evfolyam>2</Evfolyam>
+            </Felhasznalo>
+        
+            <Felhasznalo id="gyuszi321">
+                <Jelszo>gyuszika</Jelszo>
+                <Jelszo2>gyuszika</Jelszo2>
+                <Kar>IK</Kar>
+                <Szak>KAR</Szak>
+                <Evfolyam>PPI</Evfolyam>
+            </Felhasznalo>
+        
+            <Felhasznalo id="minta0">
+                <Jelszo>minta</Jelszo>
+                <Jelszo2>minta</Jelszo2>
+                <Kar>IK</Kar>
+                <Szak>PTI</Szak>
+                <Evfolyam>2</Evfolyam>
+            </Felhasznalo>
+        
+            <Felhasznalo id="juhgyuaa">
+                <Jelszo>labda</Jelszo>
+                <Jelszo2>labda</Jelszo2>
+                <Kar>IK</Kar>
+                <Szak>PTI</Szak>
+                <Evfolyam>2</Evfolyam>
+            </Felhasznalo>
+        
+            
+            <Felhasznalo id="gyuszi32">
+                <Jelszo>gyuszika</Jelszo>
+                <Jelszo2>gyuszika</Jelszo2>
+                <Kar>IK</Kar>
+                <Szak>PTI</Szak>
+                <Evfolyam>2</Evfolyam>
+            </Felhasznalo>
+        
+            <Felhasznalo id="feri32">
+                <Jelszo>e</Jelszo>
+                <Jelszo2>e</Jelszo2>
+                <Kar>IK</Kar>
+                <Szak>PTI</Szak>
+                <Evfolyam>2</Evfolyam>
+            </Felhasznalo>
+
+
+        </Felhasznalok>
+    </Adatok>
+</Projekt>

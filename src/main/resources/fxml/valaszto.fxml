@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="475.0" prefWidth="400.0" stylesheets="@../styles/Styles.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hu.unideb.inf.pkg.progtechbeadando.Controllers.ValasztoController">
+   <children>
+      <StackPane layoutX="71.0" layoutY="65.0" AnchorPane.bottomAnchor="350.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="50.0">
+         <children>
+            <Label text="Kérem válasszon egy játékot!" textAlignment="CENTER" textFill="RED" underline="true">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </StackPane>
+      <StackPane layoutX="122.0" layoutY="230.0" AnchorPane.bottomAnchor="200.0" AnchorPane.leftAnchor="50.0" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="200.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#aknakereso" text="8x8-as aknakereső" />
+         </children>
+      </StackPane>
+      <StackPane layoutX="143.0" layoutY="145.0" AnchorPane.bottomAnchor="350.0" AnchorPane.leftAnchor="50.0" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="200.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#kettoezernegyvennyolc" text="2048 játék" />
+         </children>
+      </StackPane>
+      <StackPane layoutX="87.0" layoutY="314.0" AnchorPane.bottomAnchor="150.0" AnchorPane.leftAnchor="50.0" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="300.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#kilepes" text="Bocsi, nem akarok most játszani" />
+         </children>
+      </StackPane>
+   </children>
+</AnchorPane>
