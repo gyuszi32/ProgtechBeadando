@@ -2,12 +2,12 @@
 <Projekt>
     <Adatok>
         <Felhasznalok>
-            <Felhasznalo id="gyuszi3211">
-                <Jelszo>gyuszika</Jelszo>
-                <Jelszo2>gyuszika</Jelszo2>
-                <Kar/>
-                <Szak/>
-                <Evfolyam/>
+            <Felhasznalo id="major">
+                <Jelszo>sandor</Jelszo>
+                <Jelszo2>sandor</Jelszo2>
+                <Kar>IK</Kar>
+                <Szak>PTI</Szak>
+                <Evfolyam>2</Evfolyam>
             </Felhasznalo>
         </Felhasznalok>
     </Adatok>

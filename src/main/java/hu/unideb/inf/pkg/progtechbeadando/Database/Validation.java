@@ -50,7 +50,7 @@ public class Validation {
         for (int i = 0; i < n1.getLength(); i++) {
             String felhasznalo_id = n1.item(i).getAttributes().getNamedItem("id").getNodeValue();
             felhasznalo_nevek.add(felhasznalo_id);
-            if (felhasznalo_nevek.get(i).equals(adat.getUserfield())) {
+            if (felhasznalo_nevek.contains(adat.getUserfield())) {
                 _xml.setHibaVan(true);
             }
         }
